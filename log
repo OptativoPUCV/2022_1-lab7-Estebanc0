@@ -39,3 +39,14 @@ heap.c:49:6: note: declared here
 cc1.exe: all warnings being treated as errors
 Compilation failed
 cf7f513
+ju.,  5 de may. de 2022 11:44:26: 
+ heap.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+In file included from test.c:4:0:
+heap.c: In function 'heap_pop':
+heap.c:50:20: error: statement with no effect [-Werror=unused-value]
+    if(pq->size==0) exit;
+                    ^~~~
+cc1.exe: all warnings being treated as errors
+Compilation failed
+9aac7bf
