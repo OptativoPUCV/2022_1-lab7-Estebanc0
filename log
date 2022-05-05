@@ -50,3 +50,9 @@ heap.c:50:20: error: statement with no effect [-Werror=unused-value]
 cc1.exe: all warnings being treated as errors
 Compilation failed
 9aac7bf
+ju.,  5 de may. de 2022 11:45:08: 
+ heap.c | 1 -
+ 1 file changed, 1 deletion(-)
+ tests:  2|2
+total_score: 20/70
+7d95d60
