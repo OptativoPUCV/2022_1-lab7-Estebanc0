@@ -13,3 +13,9 @@ ju.,  5 de may. de 2022 11:32:55:
  1 file changed, 16 insertions(+)
  tests:  0|0
 858a63f
+ju.,  5 de may. de 2022 11:34:57: 
+ heap.c | 4 +---
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+ tests:  1|3
+total_score: 10/70
+fc4c6ce
